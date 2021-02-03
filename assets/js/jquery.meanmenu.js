@@ -3,7 +3,7 @@
     $.fn.meanmenu = function(e) {
         var n = {
             meanMenuTarget: jQuery(this),
-            meanMenuContainer: ".fria-responsive-menu",
+            meanMenuContainer: ".main-responsive-menu",
             meanMenuClose: "X",
             meanMenuCloseSize: "18px",
             meanMenuOpen: "<span /><span /><span />",
